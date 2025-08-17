@@ -1,0 +1,121 @@
+[
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "마을을 둘러보면 필요한 부품을 찾을 수 있을 거다."
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "(아직 누군가가 살고있기는 하는 걸까?)"
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "…아무것도 없으면 어쩌지?"
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",//어깨를 으쓱이는 로봇 이미지 
+    "content" : "그럼 끝이다. 너는 바다에 가기 전에 작동을 멈추겠지."
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "넌 말을 그렇게밖에 못 해?"
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "야, 너랑 비슷한 느낌의 로봇을 알아."
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "오즈의 마법사라는 동화를 아니?"
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",//끄덕이는 로봇이미지
+    "content" : ""
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "너 거기 나오는 양철 나무꾼 닮았어."
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "기계적으로 일만 하고… 그러다가 마음도 잃고 잔뜩 녹슬게 될 걸!"
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",//작게 웃는 로봇 이미지
+    "content" : ""
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",//정색하는  로봇 이미지
+    "content" : ""
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "애초에 감정적인 요소는 최소한으로 설치된 로봇이다."
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "내게 많은 걸 바라지 마." //여기에 고양이 울음소리 삽입
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "그래그래… 근데 방금 무슨 소리 못 들었어?"
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "임시"//오류(대사가 사라짐)로 인해 추가함
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "고양이다!"//고양이소리 삽입하기
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "정확히 말하면 고양이 '로봇'이다."
+  },
+  {
+    "speaker": "고양이",
+    "image" : "image/고양이.png",//앞발을 핥고 있는 고양이 이미지
+    "content" : ""
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "저기, 어차피 나는 수레에 타서만 움직일 수 있으니까 나랑 다니기 좀 불편하지 않아?"
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",//눈이 빛나는 아라의 이미지
+    "content" : ""
+  },
+   {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "너가 돌아다니는 동안 나는 여기서 고양이랑 있을래."
+  },
+  {
+    "speaker": "고양이",
+    "image" : "image/고양이.png",//아라의 꼬리에 정신이 팔린 고양이 이미지
+    "content" : ""
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",//고개를 젓는 로봇 이미지
+    "content" : "그래, 알았다." 
+  }
