@@ -1,0 +1,103 @@
+[
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "아,제발 대답좀 길게 해주면 안돼?"
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "……"
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "와… 이젠 대답도 안 하네?"
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "말을 많이 하면 소란스러워지고, 소란스러우면 표적이 되기 쉽다."
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "물론 그러시겠죠."
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "우리가 아무리 소곤소곤 작게 이야기해도 사람들은 우리를 발견할 거고, 너는 그들을 모두 쏘아 죽이겠지."
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "이제야 말이 통하는군."
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "진심이야?"
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "무엇이?"
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "내가 농담한 걸 진심으로 받아들인 건 아니지? 그냥, 혹시나 싶어서…."
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : " (…무슨 농담을 했다는 거지?)"
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "……"
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "너 솔직히 말해봐. 너 인공지능 로봇 아니지."
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "너 그냥… 깡통 아니냐?"
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "아니 어떻게 요즘 로봇이 농담도 못 알아듣고 그래?"//여기에 수레 끄는 소리
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "(저 인어 로봇과 함께 움직이기로 한 것이 잘못된 선택은 아니었을까?)"
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "(아냐..그렇다고 아라를 버리기엔..)"
+  },
+  
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "깡통 로봇! 제발! 대답 좀!"
+  },
+  {
+    "speaker": "PW-24601",
+    "image" : "image/로봇.png",
+    "content" : "……"
+  },
+  {
+    "speaker": "아라",
+    "image" : "image/인어.png",
+    "content" : "지독한 놈…" //한숨 소리
+  }
+]
